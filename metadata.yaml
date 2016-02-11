@@ -1,0 +1,30 @@
+_repo: Miscellaneous-Pieces-in-Prose_48056
+creator:
+  authors:
+  - agent_name: Barbauld, Mrs. (Anna Letitia)
+    aliases:
+    - Barbauld, Anna Letitia
+    - Barbauld, Anna Laetitia
+    - Barbauld, Anna Lætitia
+    - Aikin, Anna Lætitia
+    - Barbauld, A. L. (Anna Letitia)
+    - Aikin, Anna Laetitia
+    birthdate: 1743
+    deathdate: 1825
+    gutenberg_agent_id: '5368'
+    url: http://www.gutenberg.org/2009/agents/5368
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Laetitia_Barbauld
+  - agent_name: Aikin, John
+    gutenberg_agent_id: '44599'
+    url: http://www.gutenberg.org/2009/agents/44599
+description: ''
+gutenberg_issued: '2015-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Miscellaneous Pieces, in Prose
+url: http://www.gutenberg.org/ebooks/48056
