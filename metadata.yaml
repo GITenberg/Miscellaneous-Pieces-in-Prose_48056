@@ -1,4 +1,8 @@
 _repo: Miscellaneous-Pieces-in-Prose_48056
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48056-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Barbauld, Mrs. (Anna Letitia)
@@ -18,6 +22,8 @@ creator:
     gutenberg_agent_id: '44599'
     url: http://www.gutenberg.org/2009/agents/44599
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48056#Miscellaneous-Pieces-in-Prose
 gutenberg_issued: '2015-01-24'
 gutenberg_type: Text
 identifiers:
